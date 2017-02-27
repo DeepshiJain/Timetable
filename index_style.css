@@ -1,0 +1,55 @@
+body{
+	background-color:#AAD6E1;
+	margin:0px 10px 10px 10px;
+	padding:0px 10px 10px 10px;
+	
+}
+#heading{
+	background:#2D3D4D; 
+	color:white;
+	margin:10 0 0 0;
+	padding:10px 10px 10px 10px;
+}
+.left{
+	width:25%;
+	height:80%;
+	/*  border:1px solid black;  */
+	margin:0px 10px 0px 0px;
+	display:inline;
+	float:left;
+}
+.right{
+	width:70%;
+	height:80%;
+	/* border:1px solid blue;  */
+	display:inline;
+	float:left;
+}
+.dwnld{
+	width:25%;
+	height:auto;
+	background:#00A6CB;
+	float:left;
+	padding:5 5 5 5;
+}
+#faculty{
+	background:#C0275C;
+	padding:5px 5px 5px 5px;
+	margin:3px;
+}
+#courses{
+	background:#F8AB36;
+	padding:5px 5px 5px 5px;
+	margin:3px;
+}
+#room{
+	background:#72B855;
+	padding:5px 5px 5px 5px;
+	margin:3px;
+}
+#uol{
+	list-style-type:none;
+	padding:40 0 0 0;
+	margin:2px;
+}
+
